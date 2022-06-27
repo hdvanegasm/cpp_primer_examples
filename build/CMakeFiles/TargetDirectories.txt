@@ -1,0 +1,9 @@
+/home/hdvanegasm/Documents/LearningC++/cpp_primer/build/CMakeFiles/rebuild_cache.dir
+/home/hdvanegasm/Documents/LearningC++/cpp_primer/build/CMakeFiles/edit_cache.dir
+/home/hdvanegasm/Documents/LearningC++/cpp_primer/build/CMakeFiles/for.dir
+/home/hdvanegasm/Documents/LearningC++/cpp_primer/build/CMakeFiles/first_program.dir
+/home/hdvanegasm/Documents/LearningC++/cpp_primer/build/CMakeFiles/io.dir
+/home/hdvanegasm/Documents/LearningC++/cpp_primer/build/CMakeFiles/while.dir
+/home/hdvanegasm/Documents/LearningC++/cpp_primer/build/CMakeFiles/intro_classes.dir
+/home/hdvanegasm/Documents/LearningC++/cpp_primer/build/CMakeFiles/if.dir
+/home/hdvanegasm/Documents/LearningC++/cpp_primer/build/CMakeFiles/eof_input.dir
